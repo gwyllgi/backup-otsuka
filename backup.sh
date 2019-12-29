@@ -2,7 +2,7 @@
 backup_files="/var/www"
 
 #Output backup.
-dest="/home"
+dest"/home"
 day=$(date +%Y-%m-%d)
 archive_file="otsuka-backup-$day.tar.gz"
 
